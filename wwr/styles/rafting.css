@@ -79,11 +79,6 @@ article {
     padding: 8px;
 }
 
-.socialmedia {
-    display: flex;
-    gap: 1rem;
-}
-
 .socialmedia a {
     text-decoration: none;
 }
@@ -201,10 +196,4 @@ header,
 footer {
     border: 1px solid var(--accent1-color);
     margin-bottom: 1rem;
-}
-
-footer p {
-    flex: 1;
-    text-align: center;
-    margin: 0;
 }
